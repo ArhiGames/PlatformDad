@@ -2,8 +2,16 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Windows
+WindowsClient
+WindowsServer
+Linux
+LinuxClient
+LinuxServer
 .vscode
 .vs
+.vsconfig
+.idea
 *.VC.db
 *.opensdf
 *.opendb
